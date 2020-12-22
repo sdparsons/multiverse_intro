@@ -2,7 +2,7 @@
 
 Here is a *very* quick tutorial to get you started. No previous experience with R is assumed, though it will help to know the basics (Software carpentry has an amazing course here https://swcarpentry.github.io/r-novice-gapminder/). I try to keep things simple and do my best to explain things throughout. 
 
-![multiverse](plot_200_models.png){ width=50% }
+![multiverse](plot_200_models.png)
 
 If anything is unclear, comment or raise an issue on the github repository and I'll try to help :)
 
